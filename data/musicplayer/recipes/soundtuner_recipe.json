@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " l ",
+      "cnc",
+      "grg"
+    ],
+    "key": {
+      "g": {
+        "item": "minecraft:gold_ingot"
+      },
+      "c": {
+        "item": "minecraft:copper_ingot"
+      },
+      "n": {
+        "item": "minecraft:note_block"
+      },
+      "r": {
+        "item": "minecraft:redstone_block"
+      },
+      "l": {
+        "item": "minecraft:lever"
+      }
+    },
+    "result": {
+      "item": "minecraft:structure_void"
+    }
+  }
+  

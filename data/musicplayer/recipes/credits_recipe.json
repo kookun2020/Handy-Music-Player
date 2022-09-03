@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "cse",
+      "adp",
+      "efc"
+    ],
+    "key": {
+      "d": {
+        "item": "minecraft:dragon_egg"
+      },
+      "c": {
+        "item": "minecraft:end_crystal"
+      },
+      "e": {
+        "item": "minecraft:ender_pearl"
+      },
+      "s": {
+        "item": "minecraft:diamond_sword"
+      },
+      "a": {
+        "item": "minecraft:diamond_axe"
+      },
+      "p": {
+        "item": "minecraft:diamond_pickaxe"
+      },
+      "f": {
+        "item": "minecraft:diamond_shovel"
+      }
+    },
+    "result": {
+      "item": "minecraft:structure_void"
+    }
+  }
+  

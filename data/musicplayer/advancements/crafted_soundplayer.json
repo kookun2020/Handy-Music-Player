@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "musicplayer:soundplayer_recipe"
+      }
+    }
+  },
+  "rewards": {
+    "function": "musicplayer:adv_give_soundplayer"
+  }
+}

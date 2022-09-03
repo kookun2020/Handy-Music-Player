@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+  "overrides": [
+      {"predicate": {"custom_model_data": 2000},"model": "item/musictuner"},
+      {"predicate": {"custom_model_data": 2020},"model": "item/musicplayerkun"},
+      {"predicate": {"custom_model_data": 2021},"model": "item/musicplayerkun_anim"},
+      {"predicate": {"custom_model_data": 41813},"model": "item/musicplayerkun_kitireko"}
+      ]
+}
