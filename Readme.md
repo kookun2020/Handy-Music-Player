@@ -22,7 +22,9 @@ Handy Music Tuner : 右手に持った状態で右クリックすると音楽の
 3,製作者はコマンド初心者なので非効率なコマンド等を使ってるかもしれません。
 4,テクスチャを入れてもらわないとただのキノコ付きの棒でわかりにくいので注意。
 
-その他不具合があった場合は私のtwitter(@kookun16)にDMで報告、もしくはdiscord等からお願いします。
+その他不具合があった場合は私のtwitterにDMで報告、もしくはdiscordやgithubのIssues等からお願いします。
+twitter : @kookun16
+github : https://github.com/kookun2020/Handy-Music-Player
 
 #ライセンスについて
 (Apache License Ver.2.0)
